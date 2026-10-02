@@ -63,7 +63,8 @@ plus a separate SHA-256 manifest. `l_demo` is fictional and is not a playable mo
 The actual localization is distributed through Steam Workshop. No GitHub Release
 is claimed. Production data stays private; this repository is intentionally
 limited to original demonstrations, synthetic fixtures and aggregate evidence.
-It starts with fresh Git history and remains private pending human review.
+It was created with fresh Git history. Production localization data remains
+private; this repository contains only the public engineering showcase.
 
 No license has been applied. All implementation files were newly written for
 this showcase; the owner must confirm contributor and contractual rights before

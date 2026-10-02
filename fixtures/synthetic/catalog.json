@@ -1,0 +1,22 @@
+[
+  {
+    "key": "demo_z_lantern",
+    "source": "[Pilot.DisplayName] stores {count} moon token beside @spark!.",
+    "target": "[Pilot.DisplayName], @spark! yanında {count} moon token saklar."
+  },
+  {
+    "key": "demo_a_badge",
+    "source": "#gold Wear the cloud badge#!: $DEMO_BADGE$.",
+    "target": "#gold cloud badge tak#!: $DEMO_BADGE$."
+  },
+  {
+    "key": "demo_m_note",
+    "source": "The paper balloon says: \\\"Orbit softly\\\".\\nFold twice.",
+    "target": "Kâğıt balon şöyle der: \\\"Yumuşakça dön\\\".\\nİki kez katla."
+  },
+  {
+    "key": "demo_b_alias",
+    "source": "$DEMO_BADGE$",
+    "target": "$DEMO_BADGE$"
+  }
+]

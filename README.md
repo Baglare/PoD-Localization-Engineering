@@ -73,10 +73,11 @@ commits or pull requests. Public AI-assistance must remain synthetic-only.
 Test each contribution locally with the documented commands. Automated GitHub
 Actions is intentionally disabled to avoid consuming the owner's unavailable quota.
 
-**Licensing remains undecided**: public visibility and the ability to fork on
-GitHub do not grant general redistribution or reuse rights. Before inviting
-third-party contributions intended for unrestricted open-source reuse, the
-repository owner must verify rights and select a license.
+**License: [MIT](LICENSE).** The original showcase code, synthetic fixtures,
+tests, and documentation in **this public repository** may be reused, modified,
+and redistributed under MIT, including commercially, while retaining the
+license and copyright notice. Contributions are welcome via pull requests;
+see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Distribution, boundary and licensing
 
@@ -86,7 +87,13 @@ limited to original demonstrations, synthetic fixtures and aggregate evidence.
 It was created with fresh Git history. Production localization data remains
 private; this repository contains only the public engineering showcase.
 
-No license has been applied. All implementation files were newly written for
-this showcase; the owner must confirm contributor and contractual rights before
-choosing a license. MIT is a possible next decision for code and synthetic
-fixtures after that review. No ownership is claimed over the game/mod or names.
+The MIT grant covers only original material included in this public showcase.
+It **does not** license the third-party Crusader Kings III game, Princes of
+Darkness mod, StrategyTürk translations, private production repository,
+Workshop package, upstream assets or trademarks. Referencing their names
+describes project context and does not imply affiliation or endorsement.
+
+Contributor submissions must contain original or appropriately licensed work;
+contributors retain their own copyrights and agree that contributions will
+be distributed under the repository's MIT license. See
+[licensing boundaries](docs/allowlist.md#ownership-and-licensing).

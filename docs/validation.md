@@ -30,7 +30,9 @@ Production tests, full builds, browser automation and game runtime tests were
 not run. Historical production smoke results remain explicitly historical.
 The small showcase test suite and demonstration are the only executed builds.
 
-Publication occurred only after a separate human review of the file boundary,
-rights and licensing. No license is applied; licensing remains a separate
-ownership/rights decision. This repository creates no
-GitHub Release, Workshop upload or production mutation.
+Publication occurred after a separate review of the public/private file
+boundary. MIT licensing of original synthetic-only showcase material was
+subsequently added in 2026; this is not a legal clearance report for every
+possible ownership or contractual issue. Historical October 2026 technical
+checks above have not been rerun as part of this license-only change.
+This repository creates no GitHub Release, Workshop upload or production mutation.

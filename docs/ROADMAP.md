@@ -31,5 +31,6 @@ production translation. Tasks must use original fictional text only.
 ## Acceptance
 
 Each change should include tests, documented limits, no data-boundary violation,
-and locally demonstrated passing tests. GitHub Actions is disabled. Legal licensing and contributions remain an owner
-decision before promoting the project as fully open source.
+and locally demonstrated passing tests. GitHub Actions is disabled. The current MIT license applies only to this original public showcase.
+Contributors must own or have compatible rights to material they submit;
+private PoD and third-party game content remain out of scope.

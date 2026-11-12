@@ -31,5 +31,5 @@ production translation. Tasks must use original fictional text only.
 ## Acceptance
 
 Each change should include tests, documented limits, no data-boundary violation,
-and green GitHub Actions. Legal licensing and contributions remain an owner
+and locally demonstrated passing tests. GitHub Actions is disabled. Legal licensing and contributions remain an owner
 decision before promoting the project as fully open source.

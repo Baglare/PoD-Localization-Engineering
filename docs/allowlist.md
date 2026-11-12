@@ -12,7 +12,6 @@ No private Git objects, branches, tags or history may be imported.
 - `AGENTS.md`
 - `CONTRIBUTING.md`
 - `SECURITY.md`
-- `.github/workflows/ci.yml`
 - `docs/ROADMAP.md`
 - `docs/allowlist.md`
 - `docs/architecture.md`
@@ -25,7 +24,7 @@ No private Git objects, branches, tags or history may be imported.
 - `fixtures/synthetic/invalid.json`
 
 The original initial tree comprised only its original allowlist. These extra
-contribution/CI documents were added later as original synthetic-only material.
+contribution documents were added later as original synthetic-only material.
 Any future newly written file requires an explicit allowlist update. Generated demonstration
 archives, bytecode, local audit output and credentials are excluded.
 

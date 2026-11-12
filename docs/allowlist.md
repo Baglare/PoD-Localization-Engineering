@@ -9,6 +9,11 @@ No private Git objects, branches, tags or history may be imported.
 - `.gitignore`
 - `.gitattributes`
 - `README.md`
+- `AGENTS.md`
+- `CONTRIBUTING.md`
+- `SECURITY.md`
+- `.github/workflows/ci.yml`
+- `docs/ROADMAP.md`
 - `docs/allowlist.md`
 - `docs/architecture.md`
 - `docs/production-evidence.md`
@@ -19,7 +24,9 @@ No private Git objects, branches, tags or history may be imported.
 - `fixtures/synthetic/terms.json`
 - `fixtures/synthetic/invalid.json`
 
-Only these paths may enter the initial Git tree. Generated demonstration
+The original initial tree comprised only its original allowlist. These extra
+contribution/CI documents were added later as original synthetic-only material.
+Any future newly written file requires an explicit allowlist update. Generated demonstration
 archives, bytecode, local audit output and credentials are excluded.
 
 ## Private material read for conceptual evidence only

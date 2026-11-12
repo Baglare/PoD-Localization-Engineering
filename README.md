@@ -58,6 +58,26 @@ plus a separate SHA-256 manifest. `l_demo` is fictional and is not a playable mo
 [The strict allowlist](docs/allowlist.md) records the publication boundary.
 [Validation](docs/validation.md) records this repository's checks.
 
+## Contributing and AI-assisted development
+
+This is an **independently runnable synthetic demonstration**, not the playable
+Turkish translation and not a mirror of the private production repository.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for a safe local workflow,
+[AGENTS.md](AGENTS.md) for Codex/Claude/other coding agents,
+[docs/ROADMAP.md](docs/ROADMAP.md) for scoped enhancements and
+[SECURITY.md](SECURITY.md) for disclosure and data-handling rules.
+
+Please use **only fictional test data**. Never upload, paste or copy real PoD,
+CK3, StrategyTürk or private translation-memory material into issues, prompts,
+commits or pull requests. Public AI-assistance must remain synthetic-only.
+Test each contribution with the documented commands. GitHub Actions checks the
+synthetic tests and CLI on pull requests.
+
+**Licensing remains undecided**: public visibility and the ability to fork on
+GitHub do not grant general redistribution or reuse rights. Before inviting
+third-party contributions intended for unrestricted open-source reuse, the
+repository owner must verify rights and select a license.
+
 ## Distribution, boundary and licensing
 
 The actual localization is distributed through Steam Workshop. No GitHub Release

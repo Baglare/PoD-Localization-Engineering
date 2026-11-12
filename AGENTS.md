@@ -11,6 +11,12 @@
   models to import real game text. The fictional fixtures are enough.
 - Keep the public allowlist policy in `docs/allowlist.md`. If adding files,
   extend its list deliberately and describe why each is safe.
+- The original showcase code, synthetic fixtures and documents are MIT-licensed
+  (see `LICENSE`); preserve copyright/license notices in substantial copies.
+  Never infer that this licenses the private PoD translation, game/mod assets,
+  third-party trademarks or proprietary data.
+- Only submit original or MIT-compatible contributions; do not import code
+  with incompatible licensing or unconfirmed ownership.
 - No changes to private repositories, Steam Workshop, game installs or upstream mods.
 - Do not present synthetic demo output as a working CK3 mod.
 

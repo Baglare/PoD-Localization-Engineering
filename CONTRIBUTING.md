@@ -2,8 +2,8 @@
 
 This public repository demonstrates **original engineering code with fictional
 data**. It does not contain the production localization or the full private
-pipeline. You can run and propose improvements to the demonstration, subject to
-the currently unresolved licensing and contribution-rights questions below.
+pipeline. You can run and propose improvements to this MIT-licensed showcase,
+without importing private or third-party game material.
 
 ## Start here
 
@@ -25,21 +25,31 @@ the currently unresolved licensing and contribution-rights questions below.
 
 Suitable examples: token grammar hardening (within fictional syntax), better
 schema validation, reproducible packaging, precise error handling, manifest
-integrity tests, synthetic fixtures, documentation and CI.
+integrity tests, synthetic fixtures, documentation and local test automation.
+GitHub Actions is intentionally disabled to conserve account quota.
 
 Never contribute real localization strings, mod/game assets, StrategyTürk text,
 private translation memory, raw production logs or private Git history.
 Do not upload them to AI coding tools or pull requests. Do not modify or
 distribute real-world copyrighted content from this sample project.
 
-## License and contribution status
+## License and contribution terms
 
-**No open-source license is currently granted.** GitHub's public/fork
-functionality does not confer a general permission to redistribute, sublicense
-or use the implementation in another product. The owner must complete
-a rights review and choose a license before treating this as a fully open-source
-contribution project. Contributors should clarify intended reuse terms with the
-owner before investing substantial work; unsolicited patches may not be accepted.
+This repository is published under the [MIT License](LICENSE).
+You may use, adapt and redistribute the original showcase material under
+its terms. Preserve the license and copyright notice in copies or substantial
+portions.
+
+By opening a pull request, you confirm that you are entitled to submit the
+contribution (your own work or material compatible with MIT) and intend it
+to be distributed under the MIT License, without additional restrictions.
+You retain copyright in your contribution. Do not submit copied game/mod
+content, private repository data, proprietary examples or work that violates
+third-party licenses, confidentiality or contractual duties.
+
+MIT licensing of this sample does **not** grant access to the actual PoD
+Turkish localization, or rights over third-party games, translations,
+trademarks or artwork.
 
 ## Review checklist
 

@@ -9,6 +9,8 @@ No private Git objects, branches, tags or history may be imported.
 - `.gitignore`
 - `.gitattributes`
 - `README.md`
+- `LICENSE`
+- `.github/PULL_REQUEST_TEMPLATE.md`
 - `AGENTS.md`
 - `CONTRIBUTING.md`
 - `SECURITY.md`
@@ -65,7 +67,15 @@ No implementation file or source sentence was copied from the private project.
 This is a conceptual demonstration, not an export of its production pipeline.
 That establishes creation provenance, not legal ownership: contributor,
 employment and contractual rights remain for the repository owner to confirm.
-No license is applied. After rights review, MIT would be a reasonable option
-for the original demonstration code and synthetic fixtures; separately decide
-how to license the documentation. Project/game/mod names identify context and
-do not imply affiliation or permission to redistribute production content.
+The original software implementation, tests, fictional fixtures and
+documentation **in this public repository** are available under the
+[MIT License](../LICENSE) (2026 Baglare). This does **not** license or
+transfer any rights to private production content, third-party games/mods,
+StrategyTürk materials, real localization strings, logos, names or trademarks.
+Names are used solely to identify context and imply no affiliation.
+
+The published source files and fresh synthetic dataset were reviewed for
+the public/private boundary, but such a review cannot conclusively establish
+the absence of every contractual or third-party ownership issue.
+Contributors must submit only original or properly licensed material and
+accept MIT distribution for their contributions.

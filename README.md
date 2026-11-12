@@ -70,8 +70,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for a safe local workflow,
 Please use **only fictional test data**. Never upload, paste or copy real PoD,
 CK3, StrategyTürk or private translation-memory material into issues, prompts,
 commits or pull requests. Public AI-assistance must remain synthetic-only.
-Test each contribution with the documented commands. GitHub Actions checks the
-synthetic tests and CLI on pull requests.
+Test each contribution locally with the documented commands. Automated GitHub
+Actions is intentionally disabled to avoid consuming the owner's unavailable quota.
 
 **Licensing remains undecided**: public visibility and the ability to fork on
 GitHub do not grant general redistribution or reuse rights. Before inviting

@@ -37,6 +37,7 @@ Python 3.10+ **standard library only**; no API keys and no network needed.
   multiplicities unless a task explicitly and safely changes the contract.
 - Do not loosen validators merely to make a test pass.
 - Explain limits: this is not a general YAML/CK3 parser, translator, or game tester.
+- GitHub Actions is disabled; report the exact local test results instead.
 - Avoid unnecessary dependencies and large/generated files.
 
 ## Verification before finishing

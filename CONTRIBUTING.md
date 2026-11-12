@@ -45,7 +45,7 @@ owner before investing substantial work; unsolicited patches may not be accepted
 
 - [ ] Synthetic-only inputs, no private or third-party game content
 - [ ] All added files recorded in `docs/allowlist.md`
-- [ ] Tests pass locally and CI is green
+- [ ] Tests pass locally (GitHub Actions is disabled due to account quota)
 - [ ] No network calls, credentials, local absolute paths or generated ZIPs
 - [ ] README/architecture updated when changing the public contract
 - [ ] No false production compatibility or game-runtime claims

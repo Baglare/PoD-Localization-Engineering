@@ -33,6 +33,15 @@ private translation memory, raw production logs or private Git history.
 Do not upload them to AI coding tools or pull requests. Do not modify or
 distribute real-world copyrighted content from this sample project.
 
+## Reporting and proposing work
+
+For bugs or enhancements to the synthetic demo, use GitHub Issues and select
+the appropriate issue template. Describe a minimal repro with **fictional**
+inputs and exact commands, not a real game localization sample.
+For suspected infringement, licensing or privacy complaints, avoid public
+Issues: email **bparilti123123@gmail.com** privately with a reference to the
+affected file/URL and your concern. See [SECURITY.md](SECURITY.md).
+
 ## License and contribution terms
 
 This repository is published under the [MIT License](LICENSE).

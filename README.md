@@ -79,6 +79,21 @@ and redistributed under MIT, including commercially, while retaining the
 license and copyright notice. Contributions are welcome via pull requests;
 see [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Issues and private rights reports
+
+Issues are open for [bugs](https://github.com/Baglare/PoD-Localization-Engineering/issues/new/choose)
+and improvement ideas **about this fictional engineering showcase**.
+Use the issue templates and include only fictional repro data; please do not
+paste real PoD, CK3, StrategyTürk, private translation-memory or Workshop
+content into a public issue or pull request.
+
+If you suspect copyright infringement, a license conflict, missing attribution,
+trademark misuse, exposed private data or another rights issue, contact
+**bparilti123123@gmail.com** privately, preferably with the affected
+file/URL, the relevant right or work, and requested action. Do not publish
+confidential evidence in an Issue. Reports can be evaluated for correction,
+restriction or removal where warranted. [Security and disclosure](SECURITY.md).
+
 ## Distribution, boundary and licensing
 
 The actual localization is distributed through Steam Workshop. No GitHub Release

@@ -18,6 +18,10 @@
 - Only submit original or MIT-compatible contributions; do not import code
   with incompatible licensing or unconfirmed ownership.
 - No changes to private repositories, Steam Workshop, game installs or upstream mods.
+- Respect `.github/ISSUE_TEMPLATE/` templates; Issues are for synthetic demo
+  bugs and feature ideas only. Direct copyright, attribution, privacy, license,
+  or confidential-content complaints to bparilti123123@gmail.com privately;
+  do not paste details into a public Issue.
 - Do not present synthetic demo output as a working CK3 mod.
 
 ## Architecture: read first

@@ -11,6 +11,8 @@ No private Git objects, branches, tags or history may be imported.
 - `README.md`
 - `LICENSE`
 - `.github/PULL_REQUEST_TEMPLATE.md`
+- `.github/ISSUE_TEMPLATE/bug_report.md`
+- `.github/ISSUE_TEMPLATE/feature_request.md`
 - `AGENTS.md`
 - `CONTRIBUTING.md`
 - `SECURITY.md`
